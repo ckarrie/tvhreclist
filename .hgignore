@@ -2,4 +2,6 @@ syntax: glob
 .idea
 dvr_log/*
 *.pyc
-
+.~lock*
+out.csv
+out.txt
